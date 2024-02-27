@@ -4,6 +4,8 @@ This tool uses [Axios](https://www.npmjs.com/package/axios) and [Cheerio](https:
 
 [Enquirer](https://www.npmjs.com/package/enquirer) is used to do user input prompts
 
+![Capture](https://github.com/Fade-ing/github-scrapper/assets/58070697/00624b59-ecd1-4bd1-ac6f-454994909456)
+
 # How to use
 
 Firstly, clone this repo
